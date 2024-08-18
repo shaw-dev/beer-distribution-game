@@ -1,1 +1,0 @@
-# beer-distribution-game
